@@ -8,4 +8,14 @@
 
 ## see all the images
 
-`docker image `
+`docker image ls`
+
+## see all the containers
+
+`docker ps -a`
+
+# Useful command for docker
+
+## pipe
+
+`ls /bin | less`
